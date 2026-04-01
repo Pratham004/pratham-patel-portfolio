@@ -9,8 +9,8 @@ const projects = [
     title: 'Pulse AI',
     category: 'AI / HEALTHCARE',
     serial: 'MD-992-X',
-    description: 'AI-powered healthcare platform that provides personalized health monitoring and risk assessment using machine learning. Acting as an intelligent intermediary between doctors and patients.',
-    tech: ['NodeJS', 'MongoDB', 'AI/ML', 'Express'],
+    description: 'Developed a healthcare-focused platform that acts as an intelligent intermediary between doctors and patients, enhancing patient care through predictive insights.',
+    tech: ['Lama', 'Javascript', 'NodeJS', 'ExpressJS', 'MongoDB'],
     color: '#3498DB',
     image: '/assets/renders/pulse_ai.png',
     gradient: 'from-blue-900/20 to-transparent'

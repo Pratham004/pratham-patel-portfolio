@@ -9,8 +9,8 @@ const contactInfo = [
 ]
 
 const socials = [
-  { icon: <FaLinkedinIn />, href: 'https://linkedin.com/in/prathampatel', label: 'LinkedIn' },
-  { icon: <FaGithub />, href: 'https://github.com/prathampatel', label: 'GitHub' },
+  { icon: <FaLinkedinIn />, href: 'https://www.linkedin.com/in/prathampatel004/', label: 'LinkedIn' },
+  { icon: <FaGithub />, href: 'https://github.com/Pratham004', label: 'GitHub' },
 ]
 
 export default function Contact() {

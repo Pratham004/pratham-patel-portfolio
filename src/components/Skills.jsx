@@ -16,8 +16,9 @@ const skillCategories = [
     skills: [
       { name: 'Figma', icon: <SiFigma /> },
       { name: 'Adobe XD', icon: <FaPalette /> },
-      { name: 'Canva', icon: <SiCanva /> },
       { name: 'Photoshop', icon: <FaPalette /> },
+      { name: 'Illustrator', icon: <FaPalette /> },
+      { name: 'Canva', icon: <SiCanva /> },
     ],
   },
   {
@@ -25,20 +26,25 @@ const skillCategories = [
     color: '#6366F1',
     skills: [
       { name: 'JavaScript', icon: <SiJavascript /> },
-      { name: 'Python', icon: <SiPython /> },
-      { name: 'Java', icon: <FaJava /> },
       { name: 'HTML5', icon: <SiHtml5 /> },
       { name: 'CSS3', icon: <SiCss /> },
+      { name: 'Python', icon: <SiPython /> },
+      { name: 'C++', icon: <FaDatabase /> },
+      { name: 'Java', icon: <FaJava /> },
+      { name: 'Golang', icon: <VscVscode /> },
+      { name: 'Bash', icon: <VscVscode /> },
     ],
   },
   {
     name: 'FRAMEWORKS',
     color: '#26A69A',
     skills: [
-      { name: 'React', icon: <SiReact /> },
-      { name: 'Node.js', icon: <SiNodedotjs /> },
-      { name: 'Tailwind CSS', icon: <SiTailwindcss /> },
-      { name: 'Flutter', icon: <SiFlutter /> },
+      { name: 'ReactJS', icon: <SiReact /> },
+      { name: 'NodeJS', icon: <SiNodedotjs /> },
+      { name: 'ExpressJS', icon: <FaDatabase /> },
+      { name: 'Svelte', icon: <FaDatabase /> },
+      { name: 'Bootstrap', icon: <FaPalette /> },
+      { name: 'Material UI', icon: <FaPalette /> },
     ],
   },
   {
@@ -46,9 +52,8 @@ const skillCategories = [
     color: '#FFB74D',
     skills: [
       { name: 'MongoDB', icon: <SiMongodb /> },
-      { name: 'MySQL', icon: <SiMysql /> },
+      { name: 'PostgreSQL', icon: <FaDatabase /> },
       { name: 'Firebase', icon: <SiFirebase /> },
-      { name: 'SQL', icon: <FaDatabase /> },
     ],
   },
   {
@@ -59,8 +64,9 @@ const skillCategories = [
       { name: 'GitHub', icon: <SiGithub /> },
       { name: 'VS Code', icon: <VscVscode /> },
       { name: 'Docker', icon: <SiDocker /> },
+      { name: 'LaTeX', icon: <VscVscode /> },
       { name: 'Postman', icon: <SiPostman /> },
-      { name: 'Azure', icon: <FaMicrosoft /> },
+      { name: 'Chrome DevTools', icon: <VscVscode /> },
     ],
   },
 ]

@@ -55,7 +55,7 @@ export default function About() {
           </h2>
 
           <p className="text-text-secondary text-lg md:text-xl lg:text-2xl font-light leading-relaxed mb-12">
-            A passionate <span className="text-white font-medium">UI/UX Developer</span> focused on creating intuitive, user-centered digital experiences. I blend design thinking with modern frontend engineering to build products that are beautiful, functional, and inherently scalable.
+            <span className="text-white font-medium">Passionate UI/UX Developer with 2+ years of experience</span> in designing intuitive, user-centered digital experiences. Skilled in wireframing, prototyping, and frontend development using Figma, Adobe XD, HTML, CSS, and JavaScript. Strong foundation in Computer Science with hands-on expertise in building scalable web applications.
           </p>
 
           <div className="grid grid-cols-3 gap-8">
