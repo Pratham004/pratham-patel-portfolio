@@ -1,0 +1,281 @@
+Pratham Patel
+
+
+ 
+9879666624
+ 
+#
+ 
+pratham.p039@gmail.com
+ 
+ï
+ 
+pratham-patel
+ 
+§
+ 
+Pratham004
+
+Summary
+
+Passionate UI/UX Developer with 2+ years of experience in designing intuitive, user-centered digital experiences.
+Skilled in wireframing, prototyping, and frontend development using Figma, Adobe XD, HTML, CSS, and
+JavaScript. Strong foundation in Computer Science with hands-on expertise in building scalable web applications.
+
+Education
+
+Silver Oak College of Computer Application (SOCCA), Silver Oak University
+June 2023 – January 2027
+
+Bachelor of Science in Computer Science & Information Technology
+ 
+GPA: 8.00/10.00
+
+Centre for Development of Advanced Computing (C-DAC)
+ 
+Dec 2023 – Nov 2024
+
+Advance Diploma in Multi-media
+ 
+Grade: A+
+
+Centre for Development of Advanced Computing (C-DAC)
+ 
+May 2023 – June 2023
+
+Certificate in Computer Concept
+ 
+Grade: A
+
+Experience
+
+Stenzo Tech
+ 
+Jun 2025 – Present
+
+UI/UX Developer
+ 
+Ahmedabad, Onsite
+
+•
+ 
+Creating intuitive, user-centered digital experiences with a focus on wireframing, prototyping, and usability
+testing using Figma and Adobe XD
+
+•
+ 
+Designing responsive interfaces and collaborating with developers to ensure seamless implementation
+
+•
+ 
+Bridging design and development using frontend technologies (HTML, CSS, JavaScript)
+
+•
+ 
+Exploring emerging technologies like AI and cloud integration to deliver clean, modern designs
+
+DMG GROUP
+ 
+Mar 2023 – Jan 2025
+
+UI/UX Developer Intern
+ 
+Ahmedabad, Onsite
+
+•
+ 
+Designed user-friendly and visually appealing interfaces; created wireframes, prototypes, and layouts using
+Figma and Adobe XD
+
+•
+ 
+Contributed to user research and usability testing to improve product experience and functionality
+
+•
+ 
+Created responsive and engaging digital assets for web and mobile platforms
+
+•
+ 
+Gained exposure to real-world project workflows, design thinking, and cross-team collaboration
+
+Projects
+
+Pulse AI
+ 
+|
+ 
+Lama, Javascript, NodeJS, ExpressJS, MongoDB
+ 
+October 2024
+
+•
+ 
+Developed a healthcare-focused platform that acts as an intelligent intermediary between doctors and patients,
+enhancing patient care through predictive insights.
+
+Certifications
+
+•
+ 
+AI for Business – LinkedIn Learning
+
+•
+ 
+AI for Business (Advanced) – LinkedIn Learning
+
+•
+ 
+AI Infrastructure & Operations – NVIDIA
+
+•
+ 
+Introduction to AI – Google
+
+•
+ 
+Intro to Generative AI – Google Skills
+
+•
+ 
+Generative AI – Kodacy / ISRO
+
+•
+ 
+Prompt Engineering – Kodacy / ISRO
+
+•
+ 
+Rocket Propulsion & Spacecraft – ISRO
+
+•
+ 
+Astronomy – Kodacy / ISRO
+
+•
+ 
+Computer Vision App with Azure – Microsoft
+
+•
+ 
+Azure Fundamentals – Microsoft
+
+•
+ 
+Scalable Cloud Infra with Azure – Microsoft
+
+•
+ 
+Managing Azure Infrastructure – Microsoft
+
+•
+ 
+AZ-900 Azure Exam Prep – Microsoft
+
+•
+ 
+Azure Fundamentals (Specialization) – Microsoft
+
+•
+ 
+Fundamentals of UI/UX Design – Microsoft
+
+•
+ 
+Foundations of Cybersecurity – Google
+
+•
+ 
+Foundations of UX Design – Google
+
+•
+ 
+Intro to Data Analytics – IBM
+
+•
+ 
+Tic Tech Toe 2024 – ULSA
+
+•
+ 
+Tech Nirvana – Tech Nirvana
+Technical Skills
+
+Design Tools
+: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, Canva, Wireframing, Prototyping
+
+Languages
+: JavaScript, HTML5, CSS3, Python, C++, Java, Golang, Bash
+
+Frameworks & Libraries
+: ReactJS, NodeJS, ExpressJS, Svelte, Bootstrap, Material UI
+
+Databases
+: MongoDB, PostgreSQL, Firebase
+
+Developer Tools
+: Git, GitHub, VS Code, Docker, LaTeX, Postman, Chrome DevTools
+
+Leadership / Extracurricular
+
+E-Cell IGNITE
+ 
+Jan 2023 – Present
+
+Head of Reports & Documentation Authority
+ 
+India, On-site
+
+•
+ 
+Ensuring accuracy, clarity, and professionalism in all official records; drafting, structuring, and reviewing
+reports for events, projects, and collaborations
+
+•
+ 
+Coordinating across teams to capture outcomes, insights, and growth opportunities with strategic
+documentation
+
+Lead
+ 
+Jul 2025 – Jan 2026
+
+•
+ 
+Led initiatives, organized events, and fostered a collaborative ecosystem empowering students to transform
+ideas into impactful ventures; skilled in team management and strategic planning
+
+Graphic Designer
+ 
+Nov 2023 – Oct 2024
+
+•
+ 
+Built strong visual presence through posters, social media creatives, and event collaterals; delivering designs
+aligned with the entrepreneurial spirit
+
+Microsoft
+ 
+Nov 2025 – Jan 2026
+
+Volunteer Software Quality Assurance Analyst
+ 
+United States, Remote
+
+•
+ 
+Conducted OS testing, feature evaluation, and bug reporting; provided quality feedback on early-stage
+Microsoft products with a focus on UI/UX sensitivity and system troubleshooting
+
+Perplexity
+ 
+Oct 2025 – Nov 2025
+
+Affiliate Program Partner
+ 
+Remote
+
+•
+ 
+Partnered with Perplexity AI as an affiliate, driving product awareness and user acquisition through strategic
+content promotion and community engagement

@@ -1,0 +1,91 @@
+﻿
+--- Page 1 Annotations/Links ---
+[
+  {
+    "url": "mailto:pratham.p039@gmail.com"
+  },
+  {
+    "url": "https://www.linkedin.com/in/prathampatel004/"
+  },
+  {
+    "url": "https://github.com/Pratham004"
+  },
+  {
+    "url": "https://stenzotech.com/"
+  },
+  {
+    "url": "https://dmggroups.in/"
+  },
+  {
+    "url": "https://www.linkedin.com/learning/certificates/836efb8e1f86af1f46d292966543ebc44b8b43611c6ce68ce97de5cc8af42aad"
+  },
+  {
+    "url": "https://www.linkedin.com/learning/certificates/977ee8f4ca31243f19d6183771c07e0e7350e2b530cae9c25bee67c1ff80d915"
+  },
+  {
+    "url": "https://www.coursera.org/account/accomplishments/verify/8RXB16LFQVEW"
+  },
+  {
+    "url": "https://www.coursera.org/account/accomplishments/verify/27UUCT4HYEB2"
+  },
+  {
+    "url": "https://www.skills.google/public_profiles/e55023ab-98bc-49d8-9edc-1de831c54680/badges/20054921"
+  },
+  {
+    "url": "https://courses.kodacy.com/kodacy-certificate/?cert_hash=66d965af2f1dd51e"
+  },
+  {
+    "url": "https://courses.kodacy.com/kodacy-certificate/?cert_hash=760e7967d0585226"
+  },
+  {
+    "url": "https://courses.kodacy.com/kodacy-certificate/?cert_hash=99ff7d5cda51d1c0"
+  },
+  {
+    "url": "https://courses.kodacy.com/kodacy-certificate/?cert_hash=9731cf4efc2e5bb3"
+  },
+  {
+    "url": "https://www.coursera.org/account/accomplishments/verify/BF0SZRGAIB2A"
+  },
+  {
+    "url": "https://www.coursera.org/account/accomplishments/verify/VGGPTCCXCR34"
+  },
+  {
+    "url": "https://www.coursera.org/account/accomplishments/verify/YY817DL90X6U"
+  },
+  {
+    "url": "https://www.coursera.org/account/accomplishments/verify/EQ7VC1VS5TOZ"
+  },
+  {
+    "url": "https://www.coursera.org/account/accomplishments/verify/OZ6RAG4P9JH9"
+  },
+  {
+    "url": "https://www.coursera.org/account/accomplishments/specialization/9XDEXDR1GF40"
+  },
+  {
+    "url": "https://www.coursera.org/account/accomplishments/verify/IIQ0WB5K7FL9"
+  },
+  {
+    "url": "https://www.coursera.org/account/accomplishments/verify/GMC2WNO34GON"
+  },
+  {
+    "url": "https://www.coursera.org/account/accomplishments/verify/YKUUUHOP1NZD"
+  },
+  {
+    "url": "https://www.coursera.org/account/accomplishments/verify/Y5GBBLZLUP55"
+  },
+  {
+    "url": "https://certificate.givemycertificate.com/c/de526b28-707d-4840-a1a1-00819ed166bc"
+  },
+  {
+    "url": "https://credsverse.com/credentials/5845040e-a584-4509-af82-7f3ed7e2d72c"
+  }
+]
+
+--- Page 1 Text Content ---
+Pratham Patel ┬â 9879666624 # pratham.p039@gmail.com ├» pratham-patel ┬º Pratham004 Summary Passionate UI/UX Developer with 2+ years of experience in designing intuitive, user-centered digital experiences. Skilled in wireframing, prototyping, and frontend development using Figma, Adobe XD, HTML, CSS, and JavaScript. Strong foundation in Computer Science with hands-on expertise in building scalable web applications. Education Silver Oak College of Computer Application (SOCCA), Silver Oak University June 2023 ΓÇô January 2027 Bachelor of Science in Computer Science & Information Technology GPA: 8.00/10.00 Centre for Development of Advanced Computing (C-DAC) Dec 2023 ΓÇô Nov 2024 Advance Diploma in Multi-media Grade: A+ Centre for Development of Advanced Computing (C-DAC) May 2023 ΓÇô June 2023 Certificate in Computer Concept Grade: A Experience Stenzo Tech Jun 2025 ΓÇô Present UI/UX Developer Ahmedabad, Onsite ΓÇó Creating intuitive, user-centered digital experiences with a focus on wireframing, prot...
+
+--- Page 2 Annotations/Links ---
+[]
+
+--- Page 2 Text Content ---
+Technical Skills Design Tools : Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, Canva, Wireframing, Prototyping Languages : JavaScript, HTML5, CSS3, Python, C++, Java, Golang, Bash Frameworks & Libraries : ReactJS, NodeJS, ExpressJS, Svelte, Bootstrap, Material UI Databases : MongoDB, PostgreSQL, Firebase Developer Tools : Git, GitHub, VS Code, Docker, LaTeX, Postman, Chrome DevTools Leadership / Extracurricular E-Cell IGNITE Jan 2023 ΓÇô Present Head of Reports & Documentation Authority India, On-site ΓÇó Ensuring accuracy, clarity, and professionalism in all official records; drafting, structuring, and reviewing reports for events, projects, and collaborations ΓÇó Coordinating across teams to capture outcomes, insights, and growth opportunities with strategic documentation Lead Jul 2025 ΓÇô Jan 2026 ΓÇó Led initiatives, organized events, and fostered a collaborative ecosystem empowering students to transform ideas into impactful ventures; skilled in team management and strategic planning ...
