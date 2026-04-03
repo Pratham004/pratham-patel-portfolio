@@ -25,7 +25,7 @@ export default function Hero() {
              scale: [1, 1.1, 1]
            }}
            transition={{ duration: 30, repeat: Infinity, ease: 'linear' }}
-           className="absolute w-[300px] h-[300px] md:w-[600px] md:h-[600px] rounded-full bg-gradient-to-r from-oryzo-orange/20 to-transparent blur-[80px]"
+           className="absolute w-[300px] h-[300px] md:w-[600px] md:h-[600px] rounded-full bg-gradient-to-r from-oryzo-orange/20 to-transparent blur-[80px] hidden md:block"
         />
         
         {/* Creative Image Float */}
@@ -40,6 +40,9 @@ export default function Hero() {
             transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut' }}
             src="/pratham.jpg" 
             alt="Pratham Background" 
+            width="500"
+            height="500"
+            fetchpriority="high"
             className="w-[300px] md:w-[500px]"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-bg-primary via-transparent to-transparent" />
@@ -102,7 +105,7 @@ export default function Hero() {
         >
           <span className="scientific-label text-[10px]" style={{ writingMode: 'vertical-rl' }}>SCROLL_INDEX</span>
           <motion.div
-            animate={{ height: ['0px', '40px', '0px'], top: ['0%', '50%', '100%'] }}
+            animate={{ opacity: [0, 1, 0], y: [0, 20, 40] }}
             transition={{ duration: 2, repeat: Infinity, ease: 'easeInOut' }}
             className="w-[1px] bg-oryzo-orange/50 h-10 relative"
           />

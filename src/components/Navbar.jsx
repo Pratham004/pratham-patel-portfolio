@@ -77,7 +77,7 @@ export default function Navbar() {
         {/* Mobile Toggle */}
         <button
           onClick={() => setMobileOpen(!mobileOpen)}
-          className="md:hidden text-white text-2xl p-2 relative z-50"
+          className="md:hidden text-white text-2xl p-2 relative z-50 min-h-[44px] min-w-[44px] flex items-center justify-center"
           aria-label="Toggle menu"
         >
           {mobileOpen ? <HiX /> : <HiMenu />}
@@ -103,7 +103,7 @@ export default function Navbar() {
                   initial={{ opacity: 0, y: 20 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: i * 0.1 }}
-                  className="oryzo-heading text-4xl text-text-primary hover:text-oryzo-orange transition-colors uppercase"
+                  className="oryzo-heading text-4xl text-text-primary hover:text-oryzo-orange transition-colors uppercase min-h-[44px] flex items-center justify-center"
                 >
                   {link.name}
                 </motion.a>
@@ -114,7 +114,7 @@ export default function Navbar() {
                 transition={{ delay: navLinks.length * 0.1 }}
                 href="/Resume.pdf"
                 download
-                className="oryzo-subtext mt-8 text-oryzo-orange border border-oryzo-orange px-8 py-4 rounded-full hover:bg-oryzo-orange hover:text-white transition-all"
+                className="oryzo-subtext mt-8 text-oryzo-orange border border-oryzo-orange px-8 py-4 rounded-full hover:bg-oryzo-orange hover:text-white transition-all min-h-[44px] inline-flex items-center justify-center"
               >
                 DOWNLOAD RESUME
               </motion.a>

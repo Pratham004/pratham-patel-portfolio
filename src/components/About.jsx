@@ -34,6 +34,9 @@ export default function About() {
              <img
               src="/pratham.jpg"
               alt="Pratham Patel"
+              loading="lazy"
+              width="400"
+              height="550"
               className="w-full h-full object-cover object-center grayscale hover:grayscale-0 transition-all duration-700 hover:scale-105"
             />
           </motion.div>

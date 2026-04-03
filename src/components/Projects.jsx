@@ -114,6 +114,10 @@ function ProjectBlock({ project, index }) {
                 transition={{ duration: 8, repeat: Infinity, ease: 'easeInOut' }}
                 src={project.image} 
                 alt={project.title} 
+                loading="lazy"
+                decoding="async"
+                width="800"
+                height="600"
                 className="w-full h-auto object-cover hover:scale-110 transition-transform duration-1000 mix-blend-screen opacity-90"
               />
               
@@ -128,9 +132,9 @@ function ProjectBlock({ project, index }) {
            <motion.div 
              animate={{ y: [20, -20, 20], rotate: 360 }}
              transition={{ duration: 15, repeat: Infinity, ease: 'linear' }}
-             className="absolute -top-10 -right-10 w-24 h-24 opacity-20 pointer-events-none grayscale invert"
+             className="absolute -top-10 -right-10 w-24 h-24 opacity-20 pointer-events-none grayscale invert hidden md:block"
            >
-              <img src="/assets/renders/tech_props.png" alt="Prop" className="w-full h-full object-contain" />
+              <img src="/assets/renders/tech_props.png" alt="Prop" loading="lazy" width="96" height="96" className="w-full h-full object-contain" />
            </motion.div>
         </motion.div>
 

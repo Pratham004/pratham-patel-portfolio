@@ -23,7 +23,7 @@ export default function BackgroundPhysics() {
       {/* Layer 1: Dense Blueprint / Equations Overlay */}
       <motion.div 
         style={{ y: blueprintY }}
-        className="absolute inset-0 w-full h-[300%] opacity-15 md:opacity-20 mix-blend-screen overflow-visible"
+        className="absolute inset-0 w-full h-[300%] opacity-15 md:opacity-20 mix-blend-screen overflow-visible hidden md:block"
       >
         <div 
           className="w-full h-full bg-repeat opacity-40"
@@ -37,7 +37,7 @@ export default function BackgroundPhysics() {
       {/* Layer 2: Technical 3D Wireframes Parallax */}
       <motion.div 
         style={{ y: wireframesY, rotate: rotation }}
-        className="absolute inset-0 w-full h-[400%] opacity-10 md:opacity-[0.15] mix-blend-screen pointer-events-none"
+        className="absolute inset-0 w-full h-[400%] opacity-10 md:opacity-[0.15] mix-blend-screen pointer-events-none hidden md:block"
       >
         <div 
           className="w-full h-full bg-repeat opacity-30"
@@ -60,7 +60,7 @@ export default function BackgroundPhysics() {
           }}
           initial={{ opacity: 0 }}
           animate={{ opacity: 0.25 }}
-          className={`absolute scientific-label ${eq.size} font-mono italic text-white/60 whitespace-nowrap blur-[0.3px] z-10`}
+          className={`absolute scientific-label ${eq.size} font-mono italic text-white/60 whitespace-nowrap blur-[0.3px] z-10 hidden md:block`}
         >
           {eq.latex}
         </motion.div>
